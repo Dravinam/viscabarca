@@ -1,0 +1,539 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Barcelona Match Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FC Barcelona Matches
+BEGIN:VEVENT
+UID:barcelona-match-564700@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261010T163000Z
+DTEND:20261010T183000Z
+SUMMARY:FC Barcelona vs Getafe CF
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-575344@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Galatasaray SK vs FC Barcelona
+DESCRIPTION:Competition: UEFA Champions League\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564713@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:Real Betis Balompié vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-575367@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Paris Saint-Germain FC vs FC Barcelona
+DESCRIPTION:Competition: UEFA Champions League\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564723@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:FC Barcelona vs Real Madrid CF
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564732@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:FC Barcelona vs Deportivo Alavés
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-575380@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:FC Barcelona vs Aston Villa FC
+DESCRIPTION:Competition: UEFA Champions League\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564746@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261108T000000Z
+DTEND:20261108T020000Z
+SUMMARY:Club Atlético de Madrid vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564749@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261122T000000Z
+DTEND:20261122T020000Z
+SUMMARY:FC Barcelona vs Villarreal CF
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-575404@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261125T174500Z
+DTEND:20261125T194500Z
+SUMMARY:Sabah FK vs FC Barcelona
+DESCRIPTION:Competition: UEFA Champions League\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564766@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261129T000000Z
+DTEND:20261129T020000Z
+SUMMARY:RC Deportivo La Coruña vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564773@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261206T000000Z
+DTEND:20261206T020000Z
+SUMMARY:FC Barcelona vs RC Celta de Vigo
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-575415@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261208T200000Z
+DTEND:20261208T220000Z
+SUMMARY:FC Barcelona vs Manchester City FC
+DESCRIPTION:Competition: UEFA Champions League\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564779@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261213T000000Z
+DTEND:20261213T020000Z
+SUMMARY:Málaga CF vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564793@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20261220T000000Z
+DTEND:20261220T020000Z
+SUMMARY:FC Barcelona vs Real Sociedad de Fútbol
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564805@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270103T000000Z
+DTEND:20270103T020000Z
+SUMMARY:RCD Espanyol de Barcelona vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564811@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270110T000000Z
+DTEND:20270110T020000Z
+SUMMARY:CA Osasuna vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564819@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270117T000000Z
+DTEND:20270117T020000Z
+SUMMARY:FC Barcelona vs Elche CF
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-575288@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270120T200000Z
+DTEND:20270120T220000Z
+SUMMARY:Sporting Clube de Portugal vs FC Barcelona
+DESCRIPTION:Competition: UEFA Champions League\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564832@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270124T000000Z
+DTEND:20270124T020000Z
+SUMMARY:Deportivo Alavés vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-575289@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:FC Barcelona vs Como 1907
+DESCRIPTION:Competition: UEFA Champions League\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564844@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270131T000000Z
+DTEND:20270131T020000Z
+SUMMARY:FC Barcelona vs Valencia CF
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564857@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270207T000000Z
+DTEND:20270207T020000Z
+SUMMARY:FC Barcelona vs Club Atlético de Madrid
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564861@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270214T000000Z
+DTEND:20270214T020000Z
+SUMMARY:Villarreal CF vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564871@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270221T000000Z
+DTEND:20270221T020000Z
+SUMMARY:FC Barcelona vs Levante UD
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564884@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270228T000000Z
+DTEND:20270228T020000Z
+SUMMARY:Athletic Club vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564888@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270307T000000Z
+DTEND:20270307T020000Z
+SUMMARY:FC Barcelona vs Real Betis Balompié
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564906@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270314T000000Z
+DTEND:20270314T020000Z
+SUMMARY:FC Barcelona vs RC Deportivo La Coruña
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564912@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270321T000000Z
+DTEND:20270321T020000Z
+SUMMARY:Rayo Vallecano de Madrid vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564919@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270404T000000Z
+DTEND:20270404T020000Z
+SUMMARY:FC Barcelona vs Sevilla FC
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564935@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270411T000000Z
+DTEND:20270411T020000Z
+SUMMARY:Real Racing Club de Santander vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564939@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270418T000000Z
+DTEND:20270418T020000Z
+SUMMARY:FC Barcelona vs RCD Espanyol de Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564950@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270421T000000Z
+DTEND:20270421T020000Z
+SUMMARY:RC Celta de Vigo vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564961@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270502T000000Z
+DTEND:20270502T020000Z
+SUMMARY:FC Barcelona vs CA Osasuna
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564975@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270509T000000Z
+DTEND:20270509T020000Z
+SUMMARY:Real Madrid CF vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564980@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270516T000000Z
+DTEND:20270516T020000Z
+SUMMARY:Real Sociedad de Fútbol vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-564989@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270523T000000Z
+DTEND:20270523T020000Z
+SUMMARY:FC Barcelona vs Málaga CF
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-match-565006@barcelona-match-calendar
+DTSTAMP:20261009T104321Z
+DTSTART:20270530T000000Z
+DTEND:20270530T020000Z
+SUMMARY:Getafe CF vs FC Barcelona
+DESCRIPTION:Competition: Primera Division\\nVenue: Venue to be confirmed\\nFixture information provided by football-data.org.\\nMatch duration is estimated at 2 hours.
+LOCATION:Venue to be confirmed
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:FC Barcelona match starts in 30 minutes
+END:VALARM
+END:VEVENT
+END:VCALENDAR
